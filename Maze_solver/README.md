@@ -1,6 +1,7 @@
 MazeSolver
 
 Yuding Ai
+
 Date:  Apr 6 2015
 
 To run the program. simply using the Makefile and then run: ./runit
