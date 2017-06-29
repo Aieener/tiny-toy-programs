@@ -1,2 +1,3 @@
 # tiny-toy-programs
-Some tiny programs.
+This is a repo for some tiny toy programs.
+Thanks!
