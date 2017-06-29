@@ -1,4 +1,4 @@
-#MazeSolver
+MazeSolver
 
 Yuding Ai
 Date:  Apr 6 2015
